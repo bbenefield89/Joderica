@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get well soon Bebe"
+title:  "Get well soon Bebe ❤️‍🩹"
 date:   2025-09-04
 categories:
 ---
